@@ -131,8 +131,8 @@ html, body {
     vertical-align: middle;
     text-decoration: none;
     overflow: hidden;
-    color: indianred;
-    background-color: indianred;
+    color: inherit;
+    background-color: inherit;
 }
 
 .black {
